@@ -37,7 +37,7 @@ const products = [
     imgUrl: productcardImg01,
     category: "Tao",
     type: 'trending',
-    price: 193,
+    price: 0,
     shortDesc:
       "Sản phẩm độc quyền tại Việt Nam",
     description:
@@ -57,7 +57,7 @@ const products = [
     imgUrl: productcardImg02,
     category: "Tao",
     type: "trending",
-    price: 253,
+    price: 0,
     shortDesc:
       "Vị ngọt của Ambrosia không đậm, mà là vị ngọt nhẹ nhàng, tự nhiên, rất dễ chịu cho vị giác. Vì thế giống táo này được mệnh danh là “vị ngọt từ thiên nhiên”.",
     description:
@@ -81,7 +81,7 @@ const products = [
     imgUrl: productcardImg03,
     category: "Quyt",
     type:"best_sale",
-    price: 173,
+    price: 0,
     shortDesc:
       "Quýt phát triển ở những khu vực khí hậu nhiệt đới, và cận nhiệt đới ấm nóng. Hiện nay, Quýt được trồng rộng rãi ở khu vực Nam Úc, đặc biệt là tiểu bang Queensland. Quýt Úc ngoài vỏ màu vàng tươi, vị ngọt, mọng nước, có hạt và dễ bóc vỏ.",
     description:
@@ -105,7 +105,7 @@ const products = [
     imgUrl: productcardImg04,
     category: "Dau",
     type: "new_arrival",
-    price: 253,
+    price: 0,
     shortDesc:
       "Dâu tây được trồng trong nhà kính thông minh, được chăm sóc hoàn toàn tự động. Dâu Hàn trở thành thương hiệu được yêu thích trên toàn thế giới.",
     description:
@@ -129,7 +129,7 @@ const products = [
     imgUrl: productcardImg05,
     category: "Kiwi",
     type: "popular_in_category",
-    price: 163,
+    price: 0,
     shortDesc:
       "Được mệnh danh là “siêu trái cây” bởi Kiwi chứa một lượng lớn các vitamin và dưỡng chất. Kiwi của New Zealand là loại trái cây rất được yêu thích bởi hương vị mới lạ hoàn hảo, mọng nước và công dụng chữa nhiều bệnh.",
     description:
@@ -153,7 +153,7 @@ const products = [
     imgUrl: productcardImg06,
     category: "Cam",
     type: "popular_in_category",
-    price: 163,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -177,7 +177,7 @@ const products = [
     imgUrl: productcardImg07,
     category: "Cherry",
     type: "popular_in_category",
-    price: 163,
+    price: 0,
     shortDesc:
       "Cherry Úc có vỏ giòn, màu hơi đỏ tím và nhìn không bóng bẩy như Cherry New Zealand. Cherry úc có vị ngọt và mùi thơm đặc trưng, để lại ấn tượng sâu sắc với bất cứ ai thưởng thức.",
     description:
@@ -200,7 +200,7 @@ const products = [
     imgUrl: productcardImg08,
     category: "Dau",
     type: "popular_in_category",
-    price: 99,
+    price: 0,
     shortDesc:
       "Dâu tây Hàn Quốc sở hữu màu đỏ tươi quyến rũ, quả rất to, thịt dày, vị ngọt thanh, mọng nước, chỉ cần cắn một miếng thôi cũng đủ nhớ mãi hương thơm dịu dàng của loại quả đỏ mọng.",
     description:
@@ -224,7 +224,7 @@ const products = [
     imgUrl: productcardImg09,
     category: "Quat",
     type: "popular_in_category",
-    price: 173,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -248,7 +248,7 @@ const products = [
     imgUrl: productcardImg10,
     category: "Dua",
     type: "popular_in_category",
-    price: 89,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -272,7 +272,7 @@ const products = [
     imgUrl: productcardImg11,
     category: "Le",
     type: "popular_in_category",
-    price: 112,
+    price: 0,
     shortDesc:
       "Theo Đông y, trái lê ( quả lê ) là loại trái cây có vị ngọt, hơi chua, tính mát có tác dụng tạo nước bọt, nhuận táo, thanh nhiệt, tiêu đờm nên chữa được các chứng khát nước, nước bọt ít do nhiệt, ho do nhiệt, kinh sợ do đàm nhiệt, bí tiện…",
     description:
@@ -296,7 +296,7 @@ const products = [
     imgUrl: productcardImg12,
     category: "Luu",
     type: "popular_in_category",
-    price: 799,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -319,7 +319,7 @@ const products = [
     imgUrl: productcardImg13,
     category: "Me",
     type: "popular_in_category",
-    price: 99,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -342,7 +342,7 @@ const products = [
     imgUrl: productcardImg14,
     category: "Nho",
     type: "popular_in_category",
-    price: 799,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -366,7 +366,7 @@ const products = [
     imgUrl: productcardImg15,
     category: "Nho",
     type: "popular_in_category",
-    price: 599,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -390,7 +390,7 @@ const products = [
     imgUrl: productcardImg16,
     category: "Nho",
     type: "popular_in_category",
-    price: 799,
+    price: 0,
     shortDesc:
       "Nho xanh autumn Chile được trồng tại các trang trại lớn của Chile bởi người bản địa theo phương pháp canh tác thuận tự nhiên. Nho có quả to, thuôn dài, vỏ màu xanh hổ phách. Thịt giòn, mọng nước, vị ngọt thơm đậm, không hạt.",
     description:
@@ -414,7 +414,7 @@ const products = [
     imgUrl: productcardImg17,
     category: "Tao",
     type: "popular_in_category",
-    price: 899,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -438,7 +438,7 @@ const products = [
     imgUrl: productcardImg18,
     category: "Tao",
     type: "popular_in_category",
-    price: 699,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -462,7 +462,7 @@ const products = [
     imgUrl: productcardImg19,
     category: "Tao",
     type: "popular_in_category",
-    price: 299,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -486,7 +486,7 @@ const products = [
     imgUrl: productcardImg20,
     category: "Tao",
     type: "popular_in_category",
-    price: 299,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -510,7 +510,7 @@ const products = [
     imgUrl: productcardImg21,
     category: "Tao",
     type: "popular_in_category",
-    price: 299,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -534,7 +534,7 @@ const products = [
     imgUrl: productcardImg22,
     category: "Tao",
     type: "popular_in_category",
-    price: 399,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -558,7 +558,7 @@ const products = [
     imgUrl: productcardImg23,
     category: "Tao",
     type: "popular_in_category",
-    price: 199,
+    price: 0,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
