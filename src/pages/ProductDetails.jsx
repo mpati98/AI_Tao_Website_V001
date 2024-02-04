@@ -96,7 +96,7 @@ const ProductDetails = () => {
                                     <p><span>({avgRating} rating)</span></p>
                                 </div>
                                 <div className="d-flex align-items-center gap-5">
-                                    <span className="product__price">{price} đ</span>
+                                    <span className="product__price">Liên hệ</span>
                                     <span className="product__categoty">Loại sản phẩm: {category.toUpperCase()}</span>
                                 </div>
                                 <p className="mt-3">{shortDesc}</p>
